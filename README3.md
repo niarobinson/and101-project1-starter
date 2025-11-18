@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **DuoLingo Goal Page** app:
 
-<img src='https://drive.google.com/file/d/12mBImV33wCSO5HP313-j7zouzKIjwdIy/view?usp=sharing](https://drive.google.com/uc?export=view&id=12mBImV33wCSO5HP313-j7zouzKIjwdIy' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='(https://drive.google.com/uc?export=view&id=12mBImV33wCSO5HP313-j7zouzKIjwdIy)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
