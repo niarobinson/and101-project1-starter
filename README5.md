@@ -74,7 +74,7 @@ Time spent: **4** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**POKEMON** is an android app that **An app that displays a random character from the Pokemon API")**
 
 If I had to describe this project in three (3) emojis, they would be: **💥🐲🔥**
 
